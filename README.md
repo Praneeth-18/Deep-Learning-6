@@ -1,8 +1,8 @@
-[Colab Part - 1: AugLy](https://colab.research.google.com/drive/1fwen4-scjH1cNqPEx_HS70SxFqkEs-dh?usp=sharing)
+[Colab Part - 1: Various regularizations & AugLy](https://colab.research.google.com/drive/1fwen4-scjH1cNqPEx_HS70SxFqkEs-dh?usp=sharing)
 
 [Colab Part - 2: Custom TensorFlow Techniques](https://colab.research.google.com/drive/140cgOHWW9_OaUjKWE2rq5mGt7gYf4_9R?usp=sharing)
 
-[Youtube Link]()
+[Youtube Link](https://youtu.be/Z8V73tnPJBU)
 
 # Part - 1
 
